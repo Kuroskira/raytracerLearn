@@ -1,0 +1,7 @@
+[package]
+name = "ray_learn"
+version = "0.1.0"
+authors = ["kuroskira <pat.halo@hotmail.it>"]
+
+[dependencies]
+rand = "0.3"
